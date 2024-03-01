@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <meta property="og:image" content="https://user0514.cdnw.net/shared/img/thumb/nekocyanPAKE5286-484_TP_V.jpg"/>
       <meta property="og:image:secure_url" content="https://user0514.cdnw.net/shared/img/thumb/nekocyanPAKE4491-427_TP_V.jpg" />
-      <div>twitter</div>
+      <div>og:image</div>
     </>
   )
 }
